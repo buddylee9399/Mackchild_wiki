@@ -79,7 +79,7 @@ group :test do
   gem "selenium-webdriver"
 
 end
-
+  gem 'haml'
   gem "simple_form"
 
   gem "devise"
